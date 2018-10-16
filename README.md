@@ -13,6 +13,9 @@ http://34.211.88.8/instrument/
 #Secret Key Passphrase
 "SecretKey"
 
+#Grader Password
+"sudo visudo"
+
 ## Prerequisites
 Access to a browser to view the listed IP and a terminal to ssh into the server.
 
